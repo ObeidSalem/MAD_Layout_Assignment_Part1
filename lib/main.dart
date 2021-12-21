@@ -28,9 +28,6 @@ class _MyAppState extends State<MyApp> {
 
   ];
 
-  Widget deviceTemplate(device){
-    return DeviceContainer(device);
-  }
 
   @override
   Widget build(BuildContext context) {
